@@ -2,10 +2,10 @@ class script(object):
 
     START_MSG = """ <b>Hello {}
 
-I'm a Image Editor Bot which Supports various modes
+I'm a Image Editor Bot Which Supports Various Modes
 
-For more click help....</b>"""
-    HELP_MSG = """Hai, Follow these Steps..
+For More Click /help....</b>"""
+    HELP_MSG = """Hy,{} Follow These Steps...
 
 <code>⭕️ Send Me Any Image To Edit..</code>
 
@@ -21,4 +21,4 @@ For more click help....</b>"""
 
 <b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-<b>Source Code :</b> <a href='https://github.com/TroJanzHEX/Image-Editor'>Click Here</a>"""
+<b>Source Code :</b> <a href='https://github.com/ajvadntr/AIOM_IMAGE_EDITOR_BOT'>Click Here</a>"""
