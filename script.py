@@ -5,7 +5,7 @@ class script(object):
 I'm a Image Editor Bot Which Supports Various Modes
 
 For More Click /help....</b>"""
-    HELP_MSG = """Hy,{} Follow These Steps...
+    HELP_MSG = """Hey, Follow These Steps...
 
 <code>⭕️ Send Me Any Image To Edit..</code>
 
