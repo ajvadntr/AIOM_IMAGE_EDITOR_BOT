@@ -1,16 +1,16 @@
 {
     "name": "Image-Editor-Bot",
     "description": "A Bot that can Edit Images in various modes",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/file/dff47dddf2ad106f2e2c0.jpg",
     "keywords": [
         "Image",
         "Editor",
         "Telegram Bot",
-        "TroJanzHEX"
+        "ajvadntr"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Image-Editor",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://t.me/AIOM_BOTS",
+    "repository": "https://github.com/ajvadntr/AIOM_IMAGE_EDITOR_BOT/edit",
+    "success_url": "https://t.me/AIOM_BOTS",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
